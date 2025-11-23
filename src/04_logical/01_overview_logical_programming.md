@@ -27,6 +27,5 @@ Python is not a logic programming language, but it *can emulate* many of the sam
 
 This folder contains:
 
-1. A pure-Python logic simulation
-2. A demo using the `kanren` logic library
-3. A comparison between Python and Prolog
+1. A pure-Python logic simulation (files 02 to 06)
+2. A demo using the `kanren` logic library (file 07)
